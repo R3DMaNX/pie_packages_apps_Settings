@@ -49,14 +49,6 @@
          android:summary="@string/changelog_summary"
          android:fragment="com.android.settings.six.Changelog" />
 
-    <!-- Phone number -->
-    <Preference
-        android:key="phone_number"
-        android:order="4"
-        android:title="@string/status_number"
-        android:summary="@string/summary_placeholder"
-        android:selectable="false"/>
-
     <Preference
         android:key="emergency_info"
         android:order="5"
@@ -86,14 +78,6 @@
         android:order="21"
         android:title="@string/hardware_info"
         settings:keywords="@string/keywords_model_and_hardware"
-        android:summary="@string/summary_placeholder"/>
-
-    <!-- IMEI -->
-    <Preference
-        android:key="imei_info"
-        android:order="22"
-        android:title="@string/status_imei"
-        settings:keywords="@string/keywords_imei_info"
         android:summary="@string/summary_placeholder"/>
 
     <!-- Android version -->
@@ -128,14 +112,6 @@
         android:title="@string/status_bt_address"
         android:summary="@string/summary_placeholder"
         android:selectable="false"/>
-
-    <!-- Manual -->
-    <Preference
-        android:key="manual"
-        android:order="40"
-        android:title="@string/manual">
-        <intent android:action="android.settings.SHOW_MANUAL"/>
-    </Preference>
 
     <!-- Feedback on the device -->
     <Preference
