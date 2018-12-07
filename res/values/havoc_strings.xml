@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2018 Havoc-OS
+     Copyright (C) 2018 SixROM
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
@@ -13,13 +13,13 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- Havoc Settings -->
-    <string name="havoc_settings_title">Havoc Settings</string>
-    <string name="havoc_settings_summary">Wreak some Havoc...</string>
+    <!-- Six Settings -->
+    <string name="six_settings_title">Six Settings</string>
+    <string name="six_settings_summary">Custom mods and tweaks</string>
 
-    <!-- Havoc-OS version -->
-    <string name="havoc_version">ROM version</string>
-    <string name="havoc_version_default">Unknown</string>
+    <!-- Six version -->
+    <string name="six_version">Six version</string>
+    <string name="six_version_default">Unknown</string>
 
     <!-- Scramble PIN Layout on Lockscreen -->
     <string name="unlock_scramble_pin_layout_title">Scramble layout</string>
@@ -412,7 +412,7 @@
     <string name="proximity_wake_title">Prevent accidental wake-up</string>
     <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen</string>
 
-	<string name="system_update_settings_summary">Check for Havoc-OS updates</string>
+	<string name="system_update_settings_summary">Check for R3DsROM updates</string>
 
     <string name="full_gesture_mode_title">Enable full gesture mode</string>
     <string name="full_gesture_mode_summary">This mode disables the back button and you can trigger a back button action by a left swipe on navbar. Right swipe still triggers the last-app and the overview apps scrolling. To go home you can tap on any navbar empty space, not only the home button. When keyboard is showing, long press on navbar to move the text cursor.</string>

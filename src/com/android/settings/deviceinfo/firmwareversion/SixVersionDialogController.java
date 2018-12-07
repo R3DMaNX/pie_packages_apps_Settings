@@ -30,14 +30,14 @@ import android.view.View;
 import com.android.settings.R;
 import com.android.settingslib.RestrictedLockUtils;
 
-public class HavocVersionDialogController {
+public class SixVersionDialogController {
 
-    private static final String TAG = "HavocDialogCtrl";
+    private static final String TAG = "SixDialogCtrl";
     private static final int DELAY_TIMER_MILLIS = 500;
     private static final int ACTIVITY_TRIGGER_COUNT = 3;
-    private static final String HAVOC_PROPERTY = "ro.havoc.build.version";
-    private static final int HAVOC_VERSION_VALUE_ID = R.id.havoc_version_value;
-    private static final int HAVOC_VERSION_LABEL_ID = R.id.havoc_version_label;
+    private static final String SIX_PROPERTY = "ro.six.build.version";
+    private static final int SIX_VERSION_VALUE_ID = R.id.six_version_value;
+    private static final int SIX_VERSION_LABEL_ID = R.id.six_version_label;
 
     private final FirmwareVersionDialogFragment mDialog;
     private final Context mContext;
@@ -47,19 +47,19 @@ public class HavocVersionDialogController {
     private RestrictedLockUtils.EnforcedAdmin mFunDisallowedAdmin;
     private boolean mFunDisallowedBySystem;
 
-    public HavocVersionDialogController(FirmwareVersionDialogFragment dialog) {
+    public SixVersionDialogController(FirmwareVersionDialogFragment dialog) {
         mDialog = dialog;
         mContext = dialog.getContext();
         mUserManager = (UserManager) mContext.getSystemService(Context.USER_SERVICE);
     }
 
     /**
-     * Populates the Havoc version field in the dialog.
+     * Populates the Six version field in the dialog.
      */
     public void initialize() {
         initializeAdminPermissions();
 
-        mDialog.setText(HAVOC_VERSION_VALUE_ID, SystemProperties.get(HAVOC_PROPERTY,
+        mDialog.setText(SIX_VERSION_VALUE_ID, SystemProperties.get(SIX_PROPERTY,
                 mContext.getResources().getString(R.string.device_info_default)));
     }
 

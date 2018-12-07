@@ -3427,10 +3427,10 @@
         <service android:name=".fuelgauge.batterytip.AnomalyDetectionJobService"
                  android:permission="android.permission.BIND_JOB_SERVICE" />
 
-        <!-- Havoc Settings -->
+        <!-- Six Settings -->
         <activity android:name=".Settings$HavocSettingsActivity"
-            android:label="@string/havoc_settings_title"
-            android:icon="@drawable/ic_homepage_havoc"
+            android:label="@string/six_settings_title"
+            android:icon="@drawable/ic_homepage_six"
             android:taskAffinity="com.android.settings">
             <intent-filter android:priority="1">
                 <action android:name="com.havoc.settings.HavocSettings" />
@@ -3452,7 +3452,7 @@
             <meta-data android:name="com.android.settings.PRIMARY_PROFILE_CONTROLLED"
                 android:value="true" />
             <meta-data android:name="com.android.settings.summary"
-                android:resource="@string/havoc_settings_summary"/>
+                android:resource="@string/six_settings_summary"/>
         </activity>
         <!-- Hide Apps from Recents (HAFR) -->
         <activity android:name="com.havoc.settings.hideappfromrecents.HAFRAppListActivity" />
