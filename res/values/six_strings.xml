@@ -15,7 +15,7 @@
 
     <!-- Six Settings -->
     <string name="six_settings_title">Six Settings</string>
-    <string name="six_settings_summary">Custom mods and tweaks</string>
+    <string name="six_settings_summary">Extra mods and tweaks</string>
 
     <!-- Six version -->
     <string name="six_version">Six version</string>
@@ -147,14 +147,14 @@
     <string name="app_ops_summaries_start_at_bootup">start at power up</string>
     <string name="app_ops_summaries_start_foreground">start foreground</string>
     <string name="app_ops_summaries_toast_window">display toasts</string>
-    <string name="app_ops_summaries_toggle_bluetooth">toggle Bluetooth</string>
+    <string name="app_ops_summaries_toggle_bluetooth">toggle bluetooth</string>
     <string name="app_ops_summaries_toggle_mobile_data">toggle cellular data</string>
     <string name="app_ops_summaries_toggle_nfc">toggle NFC</string>
     <string name="app_ops_summaries_toggle_wifi">toggle Wi-Fi</string>
     <string name="app_ops_summaries_turn_on_screen">turn the screen on</string>
     <string name="app_ops_summaries_use_alarm_volume">control alarm volume</string>
     <string name="app_ops_summaries_use_audio_focus">control the audio focus</string>
-    <string name="app_ops_summaries_use_bluetooth_volume">control the Bluetooth volume</string>
+    <string name="app_ops_summaries_use_bluetooth_volume">control the bluetooth volume</string>
     <string name="app_ops_summaries_use_body_sensors">use body sensors</string>
     <string name="app_ops_summaries_use_fingerprint">use fingerprint</string>
     <string name="app_ops_summaries_use_master_volume">control the master volume</string>
@@ -234,14 +234,14 @@
     <string name="app_ops_labels_start_at_bootup">Start at power up</string>
     <string name="app_ops_labels_start_foreground">Start foreground</string>
     <string name="app_ops_labels_toast_window">Display toasts</string>
-    <string name="app_ops_labels_toggle_bluetooth">Toggle Bluetooth</string>
+    <string name="app_ops_labels_toggle_bluetooth">Toggle bluetooth</string>
     <string name="app_ops_labels_toggle_mobile_data">Toggle cellular data</string>
     <string name="app_ops_labels_toggle_nfc">Toggle NFC</string>
     <string name="app_ops_labels_toggle_wifi">Toggle Wi-Fi</string>
     <string name="app_ops_labels_turn_on_screen">Turn the screen on</string>
     <string name="app_ops_labels_use_alarm_volume">Control alarm volume</string>
     <string name="app_ops_labels_use_audio_focus">Control the audio focus</string>
-    <string name="app_ops_labels_use_bluetooth_volume">Control the Bluetooth volume</string>
+    <string name="app_ops_labels_use_bluetooth_volume">Control the bluetooth volume</string>
     <string name="app_ops_labels_use_body_sensors">Use body sensors</string>
     <string name="app_ops_labels_use_fingerprint">Use fingerprint</string>
     <string name="app_ops_labels_use_master_volume">Control the master volume</string>
@@ -258,7 +258,7 @@
 
     <!-- Advanced night mode brightness -->
     <string name="night_brightness_category">Brightness</string>
-    <string name="night_brightness_value_title">Lower brightness if Night Light</string>
+    <string name="night_brightness_value_title">Lower brightness of night light</string>
     <string name="night_bright_disabled">Disabled</string>
     <string name="night_bright_minimum">Minimum brightness</string>
     <string name="night_bright_low">Low brightness</string>
