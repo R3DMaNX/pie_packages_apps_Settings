@@ -469,4 +469,10 @@
 
     <!-- Volume link notification -->
     <string name="volume_link_notification_title">Link ring &amp; notification volumes</string>
+
+    <!-- Changelog -->
+    <string name="changelog_title">Six Changelog</string>
+    <string name="changelog_summary">New since the last update</string>
+    <string name="changelog_error">Unable to load changelog</string>
+
 </resources>
