@@ -134,7 +134,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#FF1744" />
+        android:background="#a70d04" />
 
     <Button
         android:id="@+id/paleredAccent"
