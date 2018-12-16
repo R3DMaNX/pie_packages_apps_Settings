@@ -116,7 +116,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#ff6f20" />
+        android:background="#87a96b" />
 
     <Button
         android:id="@+id/burningredAccent"
