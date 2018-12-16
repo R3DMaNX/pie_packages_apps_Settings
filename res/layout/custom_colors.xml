@@ -143,7 +143,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#F05361" />
+        android:background="#dd6064" />
 
     <Button
         android:id="@+id/hazedpinkAccent"
