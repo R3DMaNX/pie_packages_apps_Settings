@@ -323,7 +323,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#97f456" />
+        android:background="#b284be" />
 
     <Button
         android:id="@+id/jadegreenAccent"
