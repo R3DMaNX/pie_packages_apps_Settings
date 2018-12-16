@@ -98,7 +98,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#efe3a8" />
+        android:background="#daa520" />
 
     <Button
         android:id="@+id/newhouseorangeAccent"
