@@ -170,7 +170,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#ae2463" />
+        android:background="#746cc0" />
 
     <Button
         android:id="@+id/duskpurpleAccent"
