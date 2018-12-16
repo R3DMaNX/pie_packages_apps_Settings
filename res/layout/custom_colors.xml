@@ -125,7 +125,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#f21a48" />
+        android:background="#af002a" />
 
     <Button
         android:id="@+id/candyredAccent"
