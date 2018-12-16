@@ -161,7 +161,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#e52c5f" />
+        android:background="#568203" />
 
     <Button
         android:id="@+id/trufilpinkAccent"
