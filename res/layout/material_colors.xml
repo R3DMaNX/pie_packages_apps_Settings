@@ -26,7 +26,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#FF5252" />
+        android:background="#d32f2f" />
 
     <Button
         android:id="@+id/pinkAccent"
