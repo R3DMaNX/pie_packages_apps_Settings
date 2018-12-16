@@ -26,7 +26,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#900000" />
+        android:background="#059c2c" />
 
     <Button
         android:id="@+id/userAccentTwo"
@@ -35,7 +35,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#42069a" />
+        android:background="#309ec7" />
 
     <Button
         android:id="@+id/userAccentThree"
