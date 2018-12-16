@@ -269,7 +269,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#A1B6ED" />
+        android:background="#8b9dc3" />
 
     <Button
         android:id="@+id/holillusionAccent"
