@@ -332,6 +332,6 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#9ABC98" />
+        android:background="#856088" />
 
 </LinearLayout>
