@@ -296,7 +296,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#01c18c" />
+        android:background="#00fff5" />
 
     <Button
         android:id="@+id/movemintAccent"
