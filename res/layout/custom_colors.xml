@@ -80,7 +80,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#FFCC00" />
+        android:background="#e5be00" />
 
     <Button
         android:id="@+id/maniaamberAccent"
