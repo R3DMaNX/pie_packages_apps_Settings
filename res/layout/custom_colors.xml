@@ -278,7 +278,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#0ac8ff" />
+        android:background="#eeb1cb" />
 
     <Button
         android:id="@+id/stockAccent"
