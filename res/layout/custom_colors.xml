@@ -107,7 +107,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#f25555" />
+        android:background="#418760" />
 
     <Button
         android:id="@+id/warmthorangeAccent"
