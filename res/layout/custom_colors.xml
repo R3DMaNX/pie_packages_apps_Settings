@@ -305,7 +305,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#46ff99" />
+        android:background="#1560bd" />
 
     <Button
         android:id="@+id/extendedgreenAccent"
@@ -314,7 +314,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#21ef8b" />
+        android:background="#58427c" />
 
     <Button
         android:id="@+id/diffdaygreenAccent"
