@@ -89,7 +89,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#f6ca11" />
+        android:background="#3367d6" />
 
     <Button
         android:id="@+id/coldyellowAccent"
@@ -197,7 +197,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#822b6b" />
+        android:background="#008896" />
 
     <Button
         android:id="@+id/notimppurpleAccent"
@@ -224,7 +224,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#5e616f" />
+        android:background="#656978" />
 
     <Button
         android:id="@+id/obfusbleuAccent"
@@ -314,7 +314,7 @@
         android:layout_columnWeight="1"
         android:gravity="center"
         android:layout_gravity="fill_horizontal"
-        android:background="#58427c" />
+        android:background="#f77f00" />
 
     <Button
         android:id="@+id/diffdaygreenAccent"
