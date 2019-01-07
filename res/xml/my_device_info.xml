@@ -41,13 +41,13 @@
         android:title="@string/my_device_info_account_preference_title"
         android:summary="@string/summary_placeholder"/>
 
-     <!-- Six Changelog -->
+     <!-- Six Changelog
      <Preference 
          android:key="six_changelog"
          android:order="3"
          android:title="@string/changelog_title"
          android:summary="@string/changelog_summary"
-         android:fragment="com.android.settings.six.Changelog" />
+         android:fragment="com.android.settings.six.Changelog" /> -->
 
     <Preference
         android:key="emergency_info"
